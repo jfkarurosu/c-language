@@ -1,10 +1,10 @@
-# Exercícios de linguagem C 
+# Exercícios linguagem C 
 <img src="https://static.wixstatic.com/media/386348_2423f7d3ae2e43b69830bb49dd7fc712~mv2.gif" height="50px">
 
 Lista de exercícios produzido no Curso de [Ciências da Computação](https://inf.ufg.br/p/30138-ciencia-da-computacao) da Universidade Federal de Goiás.
 
-## Introdução a Progamação
-### Lista 01 - Variáveis
+### Introdução a Progamação
+#### Lista 01 - Variáveis
 - Exercício 001 - [Consumo de energia](https://github.com/jfkarurosu/c-language/blob/main/lista-01/ex001.c)
 - Exercício 002 - [Conversão para o sistema métrico](https://github.com/jfkarurosu/c-language/blob/main/lista-01/ex002.c)
 - Exercício 003 - [Custo lata de cerveja](https://github.com/jfkarurosu/c-language/blob/main/lista-01/ex003.c)
@@ -19,7 +19,7 @@ Lista de exercícios produzido no Curso de [Ciências da Computação](https://i
 - Exercício 012 - [Valor em Notas e Moedas](https://github.com/jfkarurosu/c-language/blob/main/lista-01/ex012.c)
 - Exercício 013 - [Sistemas de Equação Linear](https://github.com/jfkarurosu/c-language/blob/main/lista-01/ex013.c)
 
-### Lista 02 - *If Else*
+#### Lista 02 - *If Else*
 - Exercício 001 - [Aprovado ou Reprovado](https://github.com/jfkarurosu/c-language/blob/main/lista-02/ex001.c)
 - Exercício 002 - [Conta de Água](https://github.com/jfkarurosu/c-language/blob/main/lista-02/ex002.c)
 - Exercício 003 - [Divisível por 3 e 5](https://github.com/jfkarurosu/c-language/blob/main/lista-02/ex003.c)
